@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects VFX_1.Plugins", "Game Effects VFX_1.Plugins.csproj", "{08EB6238-7EC0-AE64-2A0D-3E862D530CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects VFX_1", "Game Effects VFX_1.csproj", "{A986E5C5-DED5-3A61-2266-70AC9432E4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects VFX_1.Editor.Plugins", "Game Effects VFX_1.Editor.Plugins.csproj", "{99F32157-BFD4-31B8-4F39-B2613B74F862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EB6238-7EC0-AE64-2A0D-3E862D530CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EB6238-7EC0-AE64-2A0D-3E862D530CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EB6238-7EC0-AE64-2A0D-3E862D530CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EB6238-7EC0-AE64-2A0D-3E862D530CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A986E5C5-DED5-3A61-2266-70AC9432E4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A986E5C5-DED5-3A61-2266-70AC9432E4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A986E5C5-DED5-3A61-2266-70AC9432E4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A986E5C5-DED5-3A61-2266-70AC9432E4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F32157-BFD4-31B8-4F39-B2613B74F862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F32157-BFD4-31B8-4F39-B2613B74F862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F32157-BFD4-31B8-4F39-B2613B74F862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F32157-BFD4-31B8-4F39-B2613B74F862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
