@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MouseTrail.unity
+- path: Assets/Scenes/PS_ProjectileSpell.unity
   isLoaded: 1
   isActive: 1
