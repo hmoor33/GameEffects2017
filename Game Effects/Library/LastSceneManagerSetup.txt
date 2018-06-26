@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
 sceneSetups:
-- path: Assets/Scenes/StandardParticles.unity
+- path: Assets/Scenes/June_Class_ParticleSystems.unity
   isLoaded: 1
   isActive: 1
->>>>>>> 22eb4deebca99be3a1a8071651c8eac25d93a1fd

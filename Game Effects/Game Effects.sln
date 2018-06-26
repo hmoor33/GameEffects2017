@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects", "Assembly-CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects", "Assembly-CSharp-Editor-firstpass.csproj", "{F92D1494-3FFC-CD07-41D6-F01BDEBC970A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Effects", "Assembly-CSharp-Editor.csproj", "{2274FC44-C76D-C50C-CBF8-94640EC168EC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{F92D1494-3FFC-CD07-41D6-F01BDEBC970A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F92D1494-3FFC-CD07-41D6-F01BDEBC970A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F92D1494-3FFC-CD07-41D6-F01BDEBC970A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2274FC44-C76D-C50C-CBF8-94640EC168EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2274FC44-C76D-C50C-CBF8-94640EC168EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2274FC44-C76D-C50C-CBF8-94640EC168EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2274FC44-C76D-C50C-CBF8-94640EC168EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
