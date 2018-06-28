@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/PS_AmbientParticles.unity
+- path: Assets/Scenes/June_Class_2_ParticleSystems.unity
   isLoaded: 1
   isActive: 1
